@@ -1,6 +1,7 @@
 # **Python: An Introduction. **
 
-Designed by Guido van Rossum, Python is an open source popular programming language which was released in 1991. It is a  general-purpose, high-level programming language maintained by the Python Software Foundation. 
+Python was designed by Guido van Rossum, Python is an open source popular programming language which was released in 1991. It is a  general-purpose, high-level programming language maintained by the Python Software Foundation.
+Python is very friendly and easy to use compared to other languages like C#,C++,Javascript and others. 
 
 Before you head forward, it is important to note that there are two major Python versions- Python 2 and Python 3. Both the version have significant differences. 
 
